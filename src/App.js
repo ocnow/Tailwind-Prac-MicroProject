@@ -55,8 +55,8 @@ function App() {
               placeholder='1234567890'></input>
           </div>
 
-          <div class="mt-8">
-            <button class="px-3 py-1.5 bg-sky-500 leading-6 rounded-md min-w-full font-mono">Submit</button>
+          <div class="mt-8 flex justify-center">
+            <button class="px-3 py-1.5 bg-sky-500 leading-6 rounded-md font-mono w-4/5">Submit</button>
           </div>
         </div>
       </div>
