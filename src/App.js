@@ -41,7 +41,7 @@ function App() {
             </div>
           </div>
           <div class="mt-8">
-            <h1 class='text-3xl font-mono'>Address Details</h1>
+            <h1 class='text-3xl font-mono'>Contact Details</h1>
             <div class="border-b border-gray-800 mb-3"></div>
           </div>
 
