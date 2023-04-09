@@ -8,3 +8,5 @@ so, goal of this project is:
 
 & the current progress is:
 ![Current Progress](goal&progress/progress.png)
+
+upd
